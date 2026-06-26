@@ -1,0 +1,58 @@
+# Privacy Policy — Only the Best
+
+**Last updated:** June 26, 2026  
+**Developer:** Alexandr Garlock
+
+## Overview
+
+Only the Best is a restaurant discovery app. We are committed to protecting your privacy. This policy explains what data the app collects, how it is used, and with whom it is shared.
+
+## Data We Collect
+
+### Location
+We collect your precise location to search for top-rated restaurants near you. Location data is sent to the Google Places API solely to fulfill search requests and is not stored on our servers (we have no servers). You can deny location access at any time in iOS Settings.
+
+### Sign In with Apple
+We use Sign In with Apple for authentication. We receive only the minimal information Apple provides (a private user identifier). This identifier is stored locally on your device only, to track your free trial period. It is never transmitted to any external server.
+
+### Usage Data
+We store search counts and subscription status locally on your device using iOS standard storage (UserDefaults and Keychain). This data never leaves your device.
+
+## Advertising
+
+The free tier of Only the Best displays ads provided by **Google AdMob**. AdMob may collect device identifiers and usage data to serve personalized ads, subject to your App Tracking Transparency (ATT) choice when prompted. If you deny tracking, non-personalized ads are shown instead.
+
+For AdMob's privacy practices, see: https://policies.google.com/privacy
+
+## Subscriptions
+
+Plus and Pro subscriptions are processed entirely by Apple through the App Store. We do not collect or store your payment information. Subscription management is handled through your Apple ID.
+
+## Third-Party Services
+
+| Service | Purpose | Privacy Policy |
+|---|---|---|
+| Google Places API | Restaurant search | https://policies.google.com/privacy |
+| Google AdMob | Advertising (free tier) | https://policies.google.com/privacy |
+| Apple Sign In | Authentication | https://www.apple.com/legal/privacy |
+| Apple StoreKit | Subscriptions | https://www.apple.com/legal/privacy |
+
+## Data Sharing
+
+We do not sell, trade, or share your personal data with any third parties beyond the services listed above, and only to the extent necessary to operate the app.
+
+## Data Retention
+
+All data stored by Only the Best lives on your device. Deleting the app removes all locally stored data. Keychain data (trial start date) may persist until you reset your device's Keychain.
+
+## Children
+
+Only the Best is not directed at children under 13. We do not knowingly collect data from children.
+
+## Changes
+
+We may update this policy from time to time. Continued use of the app after changes constitutes acceptance of the updated policy.
+
+## Contact
+
+Questions about this policy? Email: alexgarlock@gmail.com
