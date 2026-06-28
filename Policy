@@ -1,58 +1,37 @@
 # Privacy Policy — Only the Best
 
-**Last updated:** June 26, 2026  
-**Developer:** Alexandr Garlock
+Last updated: June 28, 2026
 
-## Overview
+## Information We Collect
 
-Only the Best is a restaurant discovery app. We are committed to protecting your privacy. This policy explains what data the app collects, how it is used, and with whom it is shared.
+**Location** — We use your device location to find restaurants near you. Location data is sent to Google Places API to perform searches and is not stored on our servers.
 
-## Data We Collect
+**Account Information** — When you sign in with Apple, we receive a unique user identifier and optionally your name and email address. This is used only to save your favorites and subscription status on your device.
 
-### Location
-We collect your precise location to search for top-rated restaurants near you. Location data is sent to the Google Places API solely to fulfill search requests and is not stored on our servers (we have no servers). You can deny location access at any time in iOS Settings.
-
-### Sign In with Apple
-We use Sign In with Apple for authentication. We receive only the minimal information Apple provides (a private user identifier). This identifier is stored locally on your device only, to track your free trial period. It is never transmitted to any external server.
-
-### Usage Data
-We store search counts and subscription status locally on your device using iOS standard storage (UserDefaults and Keychain). This data never leaves your device.
-
-## Advertising
-
-The free tier of Only the Best displays ads provided by **Google AdMob**. AdMob may collect device identifiers and usage data to serve personalized ads, subject to your App Tracking Transparency (ATT) choice when prompted. If you deny tracking, non-personalized ads are shown instead.
-
-For AdMob's privacy practices, see: https://policies.google.com/privacy
-
-## Subscriptions
-
-Plus and Pro subscriptions are processed entirely by Apple through the App Store. We do not collect or store your payment information. Subscription management is handled through your Apple ID.
+**Usage Data** — We track how many searches you've used within the app to enforce free tier limits. This data is stored locally on your device.
 
 ## Third-Party Services
 
-| Service | Purpose | Privacy Policy |
-|---|---|---|
-| Google Places API | Restaurant search | https://policies.google.com/privacy |
-| Google AdMob | Advertising (free tier) | https://policies.google.com/privacy |
-| Apple Sign In | Authentication | https://www.apple.com/legal/privacy |
-| Apple StoreKit | Subscriptions | https://www.apple.com/legal/privacy |
+**Google Places API** — Used to search for restaurants. Your location is shared with Google to perform searches. Google's privacy policy applies: https://policies.google.com/privacy
 
-## Data Sharing
+**Google AdMob** — Free tier users see ads served by Google AdMob. AdMob may use your device's advertising identifier (IDFA) to show relevant ads, subject to your App Tracking Transparency choice. Google's privacy policy applies: https://policies.google.com/privacy
 
-We do not sell, trade, or share your personal data with any third parties beyond the services listed above, and only to the extent necessary to operate the app.
+**Apple Sign In** — Authentication is handled entirely by Apple. We do not receive your Apple ID password.
 
-## Data Retention
+## Data Storage
 
-All data stored by Only the Best lives on your device. Deleting the app removes all locally stored data. Keychain data (trial start date) may persist until you reset your device's Keychain.
+Your favorites and preferences are stored locally on your device using iOS standard storage. We do not operate a backend server or database.
+
+## Your Choices
+
+- You can revoke location access at any time in iOS Settings → Only the Best → Location.
+- You can opt out of ad tracking via iOS Settings → Privacy & Security → Tracking.
+- You can delete your account from the app's Settings screen, which removes all locally stored data.
 
 ## Children
 
-Only the Best is not directed at children under 13. We do not knowingly collect data from children.
-
-## Changes
-
-We may update this policy from time to time. Continued use of the app after changes constitutes acceptance of the updated policy.
+This app is not directed at children under 13 and does not knowingly collect data from children.
 
 ## Contact
 
-Questions about this policy? Email: alexgarlock@gmail.com
+Questions? Email us at alexgarlock@gmail.com
